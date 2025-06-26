@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniela.mjesus\\Documents\\Visual Studio 2022\\EmpresaCLivre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35C4206-D2D8-4B44-A2D2-622A583772FD}|Heranca\\Heranca.csproj|c:\\users\\daniela.mjesus\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35C4206-D2D8-4B44-A2D2-622A583772FD}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35C4206-D2D8-4B44-A2D2-622A583772FD}|Heranca\\Heranca.csproj|c:\\users\\daniela.mjesus\\documents\\visual studio 2022\\empresaclivre\\heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F35C4206-D2D8-4B44-A2D2-622A583772FD}|Heranca\\Heranca.csproj|solutionrelative:heranca\\frmconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmConta.cs",
+              "DocumentMoniker": "C:\\Users\\daniela.mjesus\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
+              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
+              "ToolTip": "C:\\Users\\daniela.mjesus\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs*",
+              "RelativeToolTip": "Heranca\\frmConta.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0wAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:49:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daniela.mjesus\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs",
+              "RelativeDocumentMoniker": "Heranca\\frmConta.cs",
+              "ToolTip": "C:\\Users\\daniela.mjesus\\Documents\\Visual Studio 2022\\EmpresaCLivre\\Heranca\\frmConta.cs [Design]*",
+              "RelativeToolTip": "Heranca\\frmConta.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:12:05.123Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
